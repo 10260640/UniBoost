@@ -41,7 +41,7 @@ TODO: Add long description of the pod here.
    
    
    s.libraries ='c++'
-   s.frameworks ='JavaScriptCore','CoreMedia','MediaPlayer','AVFoundation','AVKit','GLKit','OpenGLES','CoreText','QuartzCore','CoreGraphics','QuickLook','CoreTelephony','AssetsLibrary','CoreLocation','AddressBook'
+   s.frameworks ='JavaScriptCore','CoreMedia','MediaPlayer','AVFoundation','AVKit','GLKit','OpenGLES','CoreText','QuartzCore','CoreGraphics','QuickLook','CoreTelephony','AssetsLibrary','CoreLocation','AddressBook','SystemConfiguration'
    
   s.resources = 'UniBoost/Assets/Resources/*.*'
   
